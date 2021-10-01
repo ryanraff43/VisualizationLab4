@@ -1,0 +1,31 @@
+
+/* line styles */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+/* labels */
+.axis text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.tooltip {
+    position: fixed;
+    display: none;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    color: navy;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: navy;
+}
